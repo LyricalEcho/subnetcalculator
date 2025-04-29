@@ -29,24 +29,16 @@ python main.py
 ```
 ## Example
 
-Simple Subnet Calculator
+Simple Subnet Calculator  
 
-
-Enter IP Address (e.g., 192.168.1.1): 192.168.1.100
-
+Enter IP Address (e.g., 192.168.1.1): 192.168.1.100  
 Enter Subnet Mask (CIDR, e.g., 24): 24
 
-
-Results:
-
-Network Address: 192.168.1.0
-
-Broadcast Address: 192.168.1.255
-
-First Usable IP: 192.168.1.1
-
-Last Usable IP: 192.168.1.254
-
+Results:  
+Network Address: 192.168.1.0  
+Broadcast Address: 192.168.1.255  
+First Usable IP: 192.168.1.1  
+Last Usable IP: 192.168.1.254  
 Number of Usable Hosts: 254
 
 
