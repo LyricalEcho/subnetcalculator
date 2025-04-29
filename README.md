@@ -31,9 +31,11 @@ python main.py
 
 Simple Subnet Calculator
 
+
 Enter IP Address (e.g., 192.168.1.1): 192.168.1.100
 
 Enter Subnet Mask (CIDR, e.g., 24): 24
+
 
 Results:
 
