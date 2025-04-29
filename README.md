@@ -20,13 +20,13 @@ _No external libraries are required._
 git clone https://github.com/yourusername/subnetcalculator.git
 ```
 2. Navigate to the project directory:
-
+```
 cd subnetcalculator
-
+```
 3. Run the program:
-
+```
 python main.py
-
+```
 ## Example
 
 Simple Subnet Calculator
